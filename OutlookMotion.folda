@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "type": "aeproject",
+  "tree": [
+    {
+      "id": "folder-1764394376625-2",
+      "name": "!Renders",
+      "children": []
+    },
+    {
+      "id": "folder-1764394364363-1",
+      "name": "00. Comps",
+      "children": []
+    },
+    {
+      "id": "folder-1764394391880-3",
+      "name": "01. Assets",
+      "children": [
+        {
+          "id": "folder-1764394403574-4",
+          "name": "_imgs",
+          "children": []
+        },
+        {
+          "id": "folder-1764394413502-5",
+          "name": "_clips",
+          "children": []
+        },
+        {
+          "id": "folder-1764394423867-6",
+          "name": "_audio",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "folder-1764394432612-7",
+      "name": "Solids",
+      "children": []
+    }
+  ]
+}

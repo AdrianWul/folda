@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "type": "filesystem",
+  "tree": [
+    {
+      "id": "folder-1764396210638-1",
+      "name": "$date_AddProjectName",
+      "children": [
+        {
+          "id": "folder-1764394550878-8",
+          "name": "01. Reference",
+          "children": []
+        },
+        {
+          "id": "folder-1764394565015-9",
+          "name": "02. Assets",
+          "children": [
+            {
+              "id": "folder-1764394592922-12",
+              "name": "00_Source",
+              "children": []
+            },
+            {
+              "id": "folder-1764394599695-13",
+              "name": "01_Images",
+              "children": []
+            },
+            {
+              "id": "folder-1764394605335-14",
+              "name": "02_Video",
+              "children": []
+            },
+            {
+              "id": "folder-1764394612671-15",
+              "name": "03_Audio",
+              "children": []
+            },
+            {
+              "id": "folder-1764394619427-16",
+              "name": "04_Seqs",
+              "children": []
+            },
+            {
+              "id": "folder-1764394631060-17",
+              "name": "05_3D",
+              "children": []
+            },
+            {
+              "id": "folder-1764394647170-18",
+              "name": "06_Fonts",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "folder-1764394572762-10",
+          "name": "03. Projects",
+          "children": [
+            {
+              "id": "folder-1764394669016-19",
+              "name": "01. Ae",
+              "children": []
+            },
+            {
+              "id": "folder-1764394685958-20",
+              "name": "02. C4d",
+              "children": []
+            },
+            {
+              "id": "folder-1764394691554-21",
+              "name": "03. Premiere",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "folder-1764394577976-11",
+          "name": "04. Renders",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
