@@ -10,7 +10,10 @@
     {
       "id": "folder-1764394364363-1",
       "name": "00. Comps",
-      "children": []
+      "children": [],
+      "filter": {
+        "type": "compositions"
+      }
     },
     {
       "id": "folder-1764394391880-3",
@@ -19,24 +22,39 @@
         {
           "id": "folder-1764394403574-4",
           "name": "_imgs",
-          "children": []
+          "children": [],
+          "filter": {
+            "type": "extensions",
+            "pattern": "png,jpg,tiff,psd"
+          }
         },
         {
           "id": "folder-1764394413502-5",
           "name": "_clips",
-          "children": []
+          "children": [],
+          "filter": {
+            "type": "extensions",
+            "pattern": "mp4,mov,avi"
+          }
         },
         {
           "id": "folder-1764394423867-6",
           "name": "_audio",
-          "children": []
+          "children": [],
+          "filter": {
+            "type": "extensions",
+            "pattern": "mp3,aiff"
+          }
         }
       ]
     },
     {
       "id": "folder-1764394432612-7",
       "name": "Solids",
-      "children": []
+      "children": [],
+      "filter": {
+        "type": "solids"
+      }
     }
   ]
 }
